@@ -1,14 +1,20 @@
-# Title
+# Microsoft Movie Analysis
 
-**Authors**: Student1, Student2
+**Author**: Justin Balwan
 
 ## Overview
 
 A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
 
+This project focuses on providing Microsoft Movie Studio with recommendations on how they can produce successful films. 
+Given a dataset containing files from popular film-information websites, descriptive analysis was conducted on several of these files. Results depicted the top grossing genres, top grossing years, and top grossing studios. Microsft Movie Studio can effectively utilize these results to create attractive, successful films.
+
 ## Business Problem
 
+![](
 Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+
+Microsoft Movie Studio is a new movie studio that is trying to produce successful films similar to those produced by older movie studios. In order to provide effective recommendations, I chose to measure a film's success based on it's total worldwide gross. Keeping that in mind, I filtered through the dataset and found three questions to answer: which genres were the most grossing, which years were the most grossing, and which directors were the most grossing. From a business perspective, these questions would allow Microsoft Movie Studio to gain leverage against its competitors; the right genre would attract a larger audience, the right year would allow Microsoft Movie Studio to see what went right during that time, and the right studio would allow Microsoft Movie Studio to study their methods to increase their chances of producing a top quality, attractive film.
 
 ***
 Questions to consider:
